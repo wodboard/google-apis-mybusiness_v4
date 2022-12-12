@@ -1,0 +1,7 @@
+{
+    "api_id": "mybusiness:v4",
+    "name_pretty": "Google My Business API",
+    "distribution_name": "google-apis-mybusiness_v4",
+    "language": "ruby",
+    "library_type": "REST"
+}
